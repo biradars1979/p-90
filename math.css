@@ -1,0 +1,48 @@
+#para{
+	background-color:black;
+	text-emphasis-style:bold;
+}
+body
+{
+	background-image:url("bk.jpg");
+	background-image: linear-gradient();
+	background-size: 1000 ;
+    height: 100px;
+}
+
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#playingscreen
+{
+	background: linear-gradient(#e66465, #9198e5);
+}
